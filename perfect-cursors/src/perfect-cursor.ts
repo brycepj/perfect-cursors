@@ -1,4 +1,4 @@
-import { Vec } from '@tldraw/vec'
+import { Vec } from './vec'
 import { Spline } from './spline'
 
 type AnimationState = 'stopped' | 'idle' | 'animating'

@@ -1,4 +1,4 @@
-import { Vec } from '@tldraw/vec'
+import { Vec } from './vec'
 
 export class Spline {
   points: number[][] = []
